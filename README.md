@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chamchoui
+- 👋 Hi, I’m Nizam Alias
 - 👀 I’m interested in ... computer programming
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... hmm solo
